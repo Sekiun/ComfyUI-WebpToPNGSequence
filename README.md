@@ -11,7 +11,4 @@ ComfyUIのカスタムノードで、WebPファイル（アニメーションま
 - 出力ディレクトリとファイル名プレフィックスのカスタマイズ
 
 ## インストール方法
-
-```bash
-cd ComfyUI/custom_nodes/
-git clone https://github.com/あなたのユーザー名/webp-to-png-sequence.git
+custom_nodeフォルダ内にクローンしてください。
