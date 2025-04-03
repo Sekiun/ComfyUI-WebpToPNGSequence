@@ -1,0 +1,14 @@
+[project]
+name = "webptopngsequence"
+description = "Utility node for converting a .webp format image into sequential png images in ComfyUI"
+version = "1.0.0"
+license = {file = "LICENSE"}
+
+[project.urls]
+Repository = "https://github.com/Sekiun/ComfyUI-WebpToPNGSequence"
+#  Used by Comfy Registry https://comfyregistry.org
+
+[tool.comfy]
+PublisherId = ""
+DisplayName = "ComfyUI-WebpToPNGSequence"
+Icon = ""
